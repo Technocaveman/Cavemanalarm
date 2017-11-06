@@ -1,0 +1,4 @@
+ADD fan
+type=ENER002
+device_id=[0x6C6C6, 1]
+
